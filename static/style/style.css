@@ -1,0 +1,23 @@
+.card {
+  width: 400px;
+  height: 560px;
+  background-color: burlywood;
+  margin-bottom: 20px;
+  border-radius: 5%;
+  padding: 20px;
+  cursor: pointer;
+}
+.card:hover {
+  box-shadow: 5px 10px #888888;
+}
+
+img {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}/*# sourceMappingURL=style.css.map */
